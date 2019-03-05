@@ -16,11 +16,12 @@
 ![sequencial](https://user-images.githubusercontent.com/37387374/53838548-202bac00-3f74-11e9-8199-0501b40d619e.jpg)
 ![classe](https://user-images.githubusercontent.com/37387374/53838570-30dc2200-3f74-11e9-8e1f-341881867e01.jpg)
 
-##Vertice
+## Vertice
 
 ![vertice](https://user-images.githubusercontent.com/37387374/53838589-3df91100-3f74-11e9-9884-25e4b4ac920a.jpg)
 
-##Grafo
+## Grafo
+
 ![grafo](https://user-images.githubusercontent.com/37387374/53838622-4cdfc380-3f74-11e9-818b-505d0d50fe8f.jpg)
 
 ## Adicionando Vertice
